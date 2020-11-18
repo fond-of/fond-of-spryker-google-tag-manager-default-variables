@@ -8,16 +8,9 @@
       "email": "pascal.fischer@fondof.de"
     }
   ],
-  "repositories": [
-    {
-      "name": "fond-of-spryker/google-tag-manager-core",
-      "type": "path",
-      "url": "../spryker-google-tag-manager-core"
-    }
-  ],
   "require": {
     "php": ">=7.2",
-    "fond-of-spryker/google-tag-manager-core": "dev-feature/refactor-gtm",
+    "fond-of-spryker/google-tag-manager-core": "dev-master",
     "spryker/cart": "^7.1.0",
     "spryker/store": "^1.12.0",
     "codeception/codeception": "^4.1"
